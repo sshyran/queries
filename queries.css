@@ -1,0 +1,27 @@
+/*
+   QUERIES
+
+   A simple set of media queries for responsive design.
+   The first covers all screen sizes larger than 48em.
+   The second breakpoint targets widths of 48-64em
+   Third targets screens wider than 64em
+   Adjust the breakpoints as needed.
+
+*/
+
+/* Mobile first css here */
+
+/* CSS for additional breakpoints below */
+
+@media screen and (min-width: 48em) {
+
+}
+
+@media screen and (min-width: 48em) and (max-width: 64em) {
+
+}
+
+@media screen and (min-width: 64em)  {
+
+}
+
